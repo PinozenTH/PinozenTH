@@ -31,7 +31,7 @@ That is Minecraft Java Moddings That make me start to study about **Java**
 __***1 years ago I think to myself that my knowledge wasn't enough so i back to study all languages and That's How I was here!***__
 
 
-![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true)
+![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true) ![Discord Server](https://discord.com/api/guilds/828143690634887219/widget.json)
 
 
 <!--

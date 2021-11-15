@@ -1,10 +1,10 @@
-#### ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
+# ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 
-### PinozenTH
+## PinozenTH
 
 ![Discord Server](https://discordapp.com/api/guilds/828143690634887219/widget.png?style=shield)
 
-## 🔰About Me
+### 🔰About Me
 
 - 🔭 I’m currently working on [BDSX](https://github.com/bdsx/bdsx) [Plugins](https://github.com/PinozenTH/Bdsx2-Modules)
 - 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript, Typescript**
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on __**Mojang Studios**__ and __**Microsoft**__. I wish I can do it!
 - 📫 How to reach me: __**Pinozen.Thailand@gmail.com**__
 
-# ⚡ Fun fact
+#### ⚡ Fun fact
 
 Hello my name is **Pin**
 

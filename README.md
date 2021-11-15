@@ -1,4 +1,4 @@
-#### ![profile](https://avatars.githubusercontent.com/u/70961505?s=100&u=7fc65fcdb8c6e8bedfbee46fe30c8408cd8dc2d3&v=4)
+#### ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 
 ### PinozenTH
 

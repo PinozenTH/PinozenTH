@@ -1,4 +1,6 @@
-### ![profile](https://avatars.githubusercontent.com/u/70961505?s=400&u=7fc65fcdb8c6e8bedfbee46fe30c8408cd8dc2d3&v=4) PinozenTH
+#### ![profile](https://avatars.githubusercontent.com/u/70961505?s=400&u=7fc65fcdb8c6e8bedfbee46fe30c8408cd8dc2d3&v=4)
+
+### PinozenTH
 
 ## 🔰About Me
 

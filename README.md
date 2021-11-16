@@ -37,7 +37,7 @@ __***1 years ago I think to myself that my knowledge wasn't enough so i back to 
 
 # Server Project
 
-I'm current working on my Minecraft Bedrock Server SMP
+I'm current working on my [Minecraft Bedrock Server SMP](https://github.com/PinozenTH/SMP-Server)
 
 You can join my Server on [Omlet Arcade](https://omlet.gg/profile/pinozen.thailand)
 

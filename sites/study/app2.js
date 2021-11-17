@@ -4,8 +4,9 @@ for (var score = prompt("Enter your score"); score == 'null' || score == ''; sco
 
 
 if(score >= 90){
-  document.getElementById("result").innerHTML = "You get A+"
+  document.getElementById("result").innerHTML = "You get A+\nYou're are so Smart!!"
  document.getElementById("score").innerHTML = `Your Score: ${score}`
+ alert("OMG!!\nYou're so Smart!!")
 }else if(score >= 80){ 
 document.getElementById("result").innerHTML = "You get A"
  document.getElementById("score").innerHTML = `Your Score: ${score}`

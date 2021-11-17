@@ -4,8 +4,6 @@
 
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
-[Schedule](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/schedule.md)
-
 ![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true)
 
 # 🔰About Me
@@ -35,6 +33,8 @@ After I know basic about javascript i started to scripts Minecraft Bedrock after
 That is Minecraft Java Moddings That make me start to study about **Java**
 
 __***1 years ago I think to myself that my knowledge wasn't enough so i back to study all languages and That's How I was here!***__
+
+## __**[Schedule](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/schedule.md) [Server Project](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Server%20Project.md)**__
 
 <!--
 

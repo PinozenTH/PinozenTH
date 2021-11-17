@@ -1,6 +1,7 @@
 var name = prompt("What is your Name?")
 document.getElementById("name").innerHTML = `Hello!  ${name}`
 var rnd = Math.floor(Math.random() * 100)
+
 if (rnd == 50) {
   var number = ">= 50"
 }else if (rnd <= 49) {

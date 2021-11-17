@@ -2,7 +2,7 @@
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pinozenth&show_icons=true&hide_border=true&theme=radical)
-![skills](https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true&theme=radical)
+![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true&hide_border=true&theme=radical)
 
 # 🔰About Me
 

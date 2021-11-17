@@ -14,14 +14,14 @@
 
 # ⚡ Fun fact
 
-Hello my name is **Pin**
-My birthday is **3/12/06**
-I'm come from **Thailand, Chiangmai**
+Hello my name is **Pin**  
+My birthday is **3/12/06**  
+I'm come from **Thailand, Chiangmai**  
 My first Language I had learn is **Javascript** this language make me loved about coding.  
 I started to Code **Discord bot** while i was study about javascript  
 After I know basic about javascript i started to scripts Minecraft Bedrock after  
 1 year after I script Minecraft Bedrock I got __**bored**__ so I started to find something new  
-That is Minecraft Java Modding That make me started to study about **Java**
+That is Minecraft Java Modding That make me started to study about **Java**  
 
 __***"1 years ago I think to myself that my knowledge wasn't enough so i back to study all languages and That's How I was here!"***__
 

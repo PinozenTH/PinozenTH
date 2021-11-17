@@ -17,4 +17,4 @@ if (num !== rnd) {
   alert("💔Poor Guy💔 Your Guess is Incorrect!!\nThe correct Number is " + rnd)
 }
 document.getElementById("guess").innerHTML = `The Number you Guessed: ${num}`
-document.getElementById("result").innerHTML = `The Correct Number is: ${rnd}`
+document.getElementById("random").innerHTML = `The Correct Number is: ${rnd}`

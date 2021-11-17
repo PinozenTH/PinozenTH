@@ -2,7 +2,8 @@
 
 # PinozenTH
 
-![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield) [Schedule](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/schedule.md)
+![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
+![Schedule](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/schedule.md)
 
 ![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true)
 

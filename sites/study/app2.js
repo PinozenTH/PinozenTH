@@ -1,4 +1,4 @@
-for (var score = prompt("Enter your score"); score == 'null' || score == ''; score = prompt("Enter your score")){
+for (var score = prompt("Enter your score"); score == null || score == ''; score = prompt("Enter your score")){
   alert("please Enter Your Score")
 }
 

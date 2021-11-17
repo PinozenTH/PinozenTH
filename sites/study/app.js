@@ -1,4 +1,6 @@
-var name = prompt("What is your Name?")
+for(var name = prompt("What is your Name?"); name == 'null' || name == ''; name = prompt("What is your Name?")){
+  alert("Please Enter Your Name")
+}
 document.getElementById("name").innerHTML = `Hello!  ${name}`
 var rnd = Math.floor(Math.random() * 100)
 

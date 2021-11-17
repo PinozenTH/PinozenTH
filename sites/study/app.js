@@ -1,4 +1,4 @@
-for(var name = prompt("What is your Name?"); name == 'null' || name == ''; name = prompt("What is your Name?")){
+for(var name = prompt("What is your Name?"); name == null || name == ''; name = prompt("What is your Name?")){
   alert("Please Enter Your Name")
 }
 document.getElementById("name").innerHTML = `Hello!  ${name}`
@@ -11,7 +11,7 @@ if (rnd == 50) {
 }else if (rnd >= 51) {
   number = "> 50"
 }
-for(var num = prompt("Pick 0 - 99\nNumber Hint: " + number); num == 'null' || num == ''; num = prompt("Pick 0 - 99\nNumber Hint: " + number)){
+for(var num = prompt("Pick 0 - 99\nNumber Hint: " + number); num == null || num == ''; num = prompt("Pick 0 - 99\nNumber Hint: " + number)){
   alert("Please Enter Number")
 }
 if (num == rnd) {

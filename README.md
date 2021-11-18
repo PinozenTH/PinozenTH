@@ -1,8 +1,9 @@
 # ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pinozenth&show_icons=true&hide_border=true&theme=radical)
-![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true&hide_border=true&theme=radical)
+![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=pinozenth&)  
+![most](https://github-readme-stats.vercel.app/api/top-langs?username=pinozenth&show_icons=true&locale=en&layout=compact)
 
 # 🔰About Me
 

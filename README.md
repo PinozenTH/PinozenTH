@@ -1,6 +1,8 @@
 # ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=003335489847&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true&hide_border=false&theme=radical)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=pinozenth&show_icons=true&hide_border=false&theme=radical)  
 ![most](https://github-readme-stats.vercel.app/api/top-langs?username=pinozenth&show_icons=true&hide_border=false&theme=radical)

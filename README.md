@@ -1,31 +1,35 @@
 # ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=003335489847&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+## OS I capable wtih
 
-![skills](https://github-readme-stats.vercel.app/api?username=pinozenth&show_icons=true&hide_border=false&theme=radical)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=pinozenth&show_icons=true&hide_border=false&theme=radical)  
-![most](https://github-readme-stats.vercel.app/api/top-langs?username=pinozenth&show_icons=true&hide_border=false&theme=radical)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white) 	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-# 🔰About Me
+## Most Used Languages
 
-- 🔭 I’m currently working on [BDSX](https://github.com/bdsx/bdsx) [Plugins](https://github.com/PinozenTH/Bdsx2-Modules)
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript, Typescript**
-- 🤔 I’m looking for help with **Minecraft Bedrock SMP Server Project**
-- 👯 I’m looking to collaborate on __**Mojang Studios**__ and __**Microsoft**__. I wish I can do it!
-- 📫 How to reach me: <Pinozen.Thailand@gmail.com>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-# ⚡ Fun fact
+## Program I used
 
-Hello my name is **Pin**  
-My birthday is **3/12/06**  
-I'm come from **Thailand, Chiangmai**  
-My first Language I had learn is **Javascript** this language make me loved about coding.  
-I started to Code **Discord bot** while i was study about javascript  
-After I know basic about javascript i started to scripts Minecraft Bedrock after  
-1 year after I script Minecraft Bedrock I got __**bored**__ so I started to find something new  
-That is Minecraft Java Modding That make me started to study about **Java**  
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![SubLime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Lint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=whit) ![Intelli](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
 
-__***"1 years ago I think to myself that my knowledge wasn't enough so i back to study all languages and That's How I was here!"***__
+## ☁ Cloud
 
-## __**[ [Schedule](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/schedule.md) ] [ [Server Project](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/serverProject.md) ] [ [TODO List](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/toDoList.md) ]**__
+![DigitalOcean Referral Badge](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💻 Workspaces
+
+![I7](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+# ▶ About Me
+
+Hello! My name is *Nont*
+
+I'm 15 years old ***Junior Programer***
+
+Right now I'm a Student at SatitCMU, Thailand
+
+I'm Interested to Contribute with **Microsoft** or **Amazon**
+
+# ❤ Donate
+[![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pinont) [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pinont)

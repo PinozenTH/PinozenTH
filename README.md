@@ -33,3 +33,10 @@ I'm Interested to Contribute with **Microsoft** or **Amazon**
 
 # ❤ Donate
 [![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pinont) [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pinont)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>

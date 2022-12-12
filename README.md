@@ -1,8 +1,6 @@
 # ![profile](https://github.com/PinozenTH/PinozenTH/blob/PinozenTH/assets/Untitled.png)
 ![Discord Server](https://discordapp.com/api/guilds/749969091560734822/widget.png?style=shield)
 
-<a href="https://app.daily.dev/Pinont"><img src="https://api.daily.dev/devcards/844451e02c744b378a118561b71cea16.png?r=dcw" width="400" alt="Nont Nonnipat's Dev Card"/></a>
-
 ## OS I capable wtih
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white) 	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -37,3 +35,6 @@ Founder of [Chasing Club Team](https://github.com/ChasingClub)
 
 # ❤ Donate
 [![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pinont) [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pinont)
+
+<a href="https://app.daily.dev/Pinont"><img src="https://api.daily.dev/devcards/844451e02c744b378a118561b71cea16.png?r=dcw" width="400" alt="Nont Nonnipat's Dev Card"/></a>
+

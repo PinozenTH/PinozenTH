@@ -24,7 +24,7 @@
 
 Hello! My name is *Nont*
 
-I'm 16 years old ***Junior Programer***
+I'm 17 years old ***Junior Programer***
 
 Right now I'm a Student at SatitCMU, Thailand
 

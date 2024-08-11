@@ -25,6 +25,10 @@
 
 - 📫 How to reach me **pinont@pinont.com**
 
+<a href='#'>
+  <img alt='lanyard' width="380" height="190" src='https://lanyard.cnrad.dev/api/556094560262946837' />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pinozenth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pinozenth" height="30" width="40" /></a>

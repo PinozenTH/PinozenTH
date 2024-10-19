@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PinozenTH</h1>
+<h1 align="center">Hi 👋, I'm Nont</h1>
 <h3 align="center">A Minecraft plugin Developer from Thailand</h3>
 
 <!-- Light Mode -->

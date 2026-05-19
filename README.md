@@ -6,28 +6,28 @@ Passionate about backend and server-side systems, with the ability to work acros
 ## 🚀 Coding Journey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.57%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-🌆 Daytime                747 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌃 Evening                1028 commits        ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌙 Night                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+🌞 Morning                394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌆 Daytime                747 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌃 Evening                1030 commits        ██████████░░░░░░░░░░░░░░░   41.37 % 
+🌙 Night                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Tuesday                  426 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Wednesday                578 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Saturday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sunday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Tuesday                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Wednesday                578 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Friday                   245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Saturday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 ```
 
 
@@ -37,29 +37,29 @@ Sunday                   361 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-Java                     1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Markdown                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.73 % 
+Java                     2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       ██████████████████░░░░░░░   73.21 % 
-IntelliJ IDEA            2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Postman                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+VS Code                  5 hrs 36 mins       ██████████████████░░░░░░░   71.65 % 
+IntelliJ IDEA            2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Postman                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     31 repos            ███████████░░░░░░░░░░░░░░   44.93 % 
-JavaScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Batchfile                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Java                     31 repos            ███████████░░░░░░░░░░░░░░   44.29 % 
+JavaScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 

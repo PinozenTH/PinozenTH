@@ -37,19 +37,18 @@ Sunday                   361 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.73 % 
-Java                     2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Markdown                 3 hrs 44 mins       ██████████████░░░░░░░░░░░   54.96 % 
+Java                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       ██████████████████░░░░░░░   71.65 % 
-IntelliJ IDEA            2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Postman                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+VS Code                  5 hrs 36 mins       █████████████████████░░░░   82.51 % 
+IntelliJ IDEA            1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 
 💻 Operating System: 
-Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 

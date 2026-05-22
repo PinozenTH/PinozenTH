@@ -6,8 +6,6 @@ Passionate about backend and server-side systems, with the ability to work acros
 ## 🚀 Coding Journey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2027%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.57%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -37,19 +35,19 @@ Sunday                   361 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ██████████████░░░░░░░░░░░   54.30 % 
-Java                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Markdown                 3 hrs 53 mins       ██████████████░░░░░░░░░░░   56.78 % 
+Java                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       ████████████████████░░░░░   81.51 % 
-IntelliJ IDEA            1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+VS Code                  5 hrs 46 mins       █████████████████████░░░░   84.43 % 
+IntelliJ IDEA            58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 

@@ -8,48 +8,6 @@ Passionate about backend and server-side systems, with the ability to work acros
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.57%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-🌆 Daytime                747 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                1030 commits        ██████████░░░░░░░░░░░░░░░   41.37 % 
-🌙 Night                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Tuesday                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Wednesday                578 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Friday                   245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Saturday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Markdown                 3 hrs 53 mins       ██████████████░░░░░░░░░░░   56.78 % 
-Java                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████░░░░   84.43 % 
-IntelliJ IDEA            58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-
-💻 Operating System: 
-Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
